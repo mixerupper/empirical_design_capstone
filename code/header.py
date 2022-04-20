@@ -2,7 +2,7 @@ import numpy as np
 from datetime import datetime
 
 class Header():
-	def __init__(self, sample):
+	def __init__(self, sample = False):
 		self.sample = sample
 
 	def data_root(self, path):

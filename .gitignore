@@ -130,4 +130,4 @@ dmypy.json
 
 # Full datasets too large
 data/01b-full-raw/
-data/02b-full-cleaned/
+data/02b-full-clean/
