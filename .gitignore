@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Full datasets too large
+data/01b-full-raw/
+data/02b-full-cleaned/
